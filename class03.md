@@ -3,7 +3,7 @@
 ### Review: ES6 Classes
 
 1. Classes are a template for creating ____.
-- Object
+- Objects.
 2. Can a class declaration be hoisted?
 - No, class declarations cannot be hoisted in JavaScript.
 3. How would you describe a constructor and contextual “this” to a non-technical friend?
