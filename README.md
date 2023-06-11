@@ -5,6 +5,6 @@ Table of  contents                                                              
 [Code 401 - Reading Class - 02](./class01b.md) |
 [Code 401 - Reading Class - 03](./class03.md) |
 [Big O & Linked Lists](./linked-list.md) |
-
+[Data Modeling](./Modeling.md) |
 
 
