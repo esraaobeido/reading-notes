@@ -1,4 +1,4 @@
-# Code 401 - Reading Class - 01
+# Node Ecosystem
 
 The Node.js ecosystem refers to the collective set of tools, libraries, frameworks, and resources that surround the Node.js runtime environment. It encompasses a vast array of open-source modules and components that developers can utilize to build and enhance applications using Node.js.
 
