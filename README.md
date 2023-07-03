@@ -9,5 +9,5 @@ Table of  contents                                                              
 [Authentication](./Authentication.md) |
 [Bearer Authorization](./Authentication.md) |
 [Access Control (ACL)](./ACL.md) |
-[class09](./class09.md) |
-[class10](./stackandQueues) |
+[Stack and Queue](./stackandQueues) |
+[Event Driven Application](./eventdrivenapplication.md) |

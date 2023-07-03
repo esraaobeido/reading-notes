@@ -12,7 +12,9 @@ Space complexity measures the amount of memory an algorithm requires to solve a 
 It quantifies the additional memory used by the algorithm, excluding the input itself.
 
 ### Diagram explain the Big O:
-![](./bo.png)
+<br>
+
+![](./images/bo.png)
 - Types of Big O:
 1. O(1) - Constant Time Complexity.
 Example : 
@@ -96,7 +98,7 @@ O(1)*O(logn)*O(1)*O(n)*O(1)= O(nlogn)
 A linked list is a linear data structure consisting of a sequence of nodes. Each node contains two components: data and a reference (or link) to the next node in the list. The first node is called the head, and the last node typically points to null, indicating the end of the list.
 ### Diagram explain the Linked List:
 Linked list can be visualized as a chain of nodes, where every node points to the next node.
-![](./ll1.png)
+![](./images/ll1.png)
 ###  Types of Linked Lists:
 1. Singly Linked List.
 2. Doubly Linked List.
