@@ -13,3 +13,4 @@ Table of  contents                                                              
 [Event Driven Application](./eventdrivenapplication.md) |
 [Socket.io](./Socket.io.md) |
 [Message Queues](./MessageQueues.md) |
+[Event Driven Architecture](./EventDrivenArchitecture.md) |
