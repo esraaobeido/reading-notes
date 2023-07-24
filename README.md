@@ -18,3 +18,4 @@ Table of  contents                                                              
 [Cloud Servers](./cloudServers.md) |
 [S3 and Lambda](./cloudServers.md) |
 [AWS: Events](./awsEvents.md) |
+[AWS: DynamoDB](./AWSAPI.md) |
