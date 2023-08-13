@@ -1,4 +1,4 @@
-Table of  contents                                                                                                      | 
+Table of Backend part                                                                                                      | 
 -----------------------------------------------------------------------------------------------------------------------|
 [Data Structures and Algorithms](./DataStructuresAlgo.md)|
 [Node Ecosystem](./class01a.md) |
@@ -19,3 +19,7 @@ Table of  contents                                                              
 [S3 and Lambda](./cloudServers.md) |
 [AWS: Events](./awsEvents.md) |
 [AWS: DynamoDB](./AWSAPI.md) |
+
+Table of Frontend part                                                                                                      | 
+-----------------------------------------------------------------------------------------------------------------------|
+[Component Based UI](./ComponentBasedUI.md)|
