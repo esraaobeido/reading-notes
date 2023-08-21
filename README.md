@@ -24,3 +24,4 @@ Table of Frontend part                                                          
 -----------------------------------------------------------------------------------------------------------------------|
 [Component Based UI](./ComponentBasedUI.md)|
 [Hook](./hook.md)|
+[Advanced State with Reducers](./reducers.md)|
