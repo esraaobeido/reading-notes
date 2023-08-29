@@ -27,3 +27,4 @@ Table of Frontend part                                                          
 [Advanced State with Reducers](./reducers.md)|
 [Hash Tables](./hashTable.md)|
 [Context API](./ContextAPI.md)|
+[Context API - Behaviors](./ContextAPI-Behaviors.md)|
