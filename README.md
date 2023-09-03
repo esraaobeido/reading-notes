@@ -28,3 +28,5 @@ Table of Frontend part                                                          
 [Hash Tables](./hashTable.md)|
 [Context API](./ContextAPI.md)|
 [Context API - Behaviors](./ContextAPI-Behaviors.md)|
+[Login and Auth](./LoginandAuth.md)|
+[API Integration](./API-Integration.md)|
