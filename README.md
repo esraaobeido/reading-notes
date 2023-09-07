@@ -31,3 +31,5 @@ Table of Frontend part                                                          
 [Login and Auth](./LoginandAuth.md)|
 [API Integration](./API-Integration.md)|
 [Graphs](./Graphs.md)|
+[Application State with Redux](./ApplicationStatewithRedux.md)|
+
