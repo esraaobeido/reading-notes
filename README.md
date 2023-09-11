@@ -32,4 +32,5 @@ Table of Frontend part                                                          
 [API Integration](./API-Integration.md)|
 [Graphs](./Graphs.md)|
 [Application State with Redux](./ApplicationStatewithRedux.md)|
+[Redux - Combined Reducers](./Redux-combined-reducer.md)|
 
