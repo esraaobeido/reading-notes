@@ -33,4 +33,5 @@ Table of Frontend part                                                          
 [Graphs](./Graphs.md)|
 [Application State with Redux](./ApplicationStatewithRedux.md)|
 [Redux - Combined Reducers](./Redux-combined-reducer.md)|
+[Redux - Asynchronous Actions](./Redux-Asynchronous%20Actions.md)|
 
